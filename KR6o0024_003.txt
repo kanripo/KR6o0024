@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:23.846136
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:35
 #+TITLE: 因明入正理論疏後記
 #+PROPERTY: CBETA_ID X53n0854
 #+PROPERTY: ID KR6o0024
